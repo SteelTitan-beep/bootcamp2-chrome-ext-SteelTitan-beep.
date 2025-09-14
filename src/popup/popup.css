@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 200px;
+  text-align: center;
+  padding: 10px;
+}
+h1 {
+  font-size: 18px;
+  margin: 0 0 10px;
+}
+#tabCount {
+  font-weight: bold;
+  color: #0078d7;
+}
